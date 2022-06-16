@@ -1,4 +1,4 @@
-module multibase
+module github.com/dradetsky/multibase
 
 go 1.17
 
